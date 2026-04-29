@@ -31,7 +31,8 @@ function calcularNotas() {
     }
 }
 
-// calcularNotas()
+calcularNotas()
+
 
 
 /****
